@@ -1,0 +1,18 @@
+// Omar De La Torre
+// Module 5 Problem 8
+// 5/14/2019
+
+import java.math.*;
+
+public class module5problem8
+{
+
+	public static void main(String[] args)
+    {
+      System.out.println(Math.random());
+      
+  
+      
+      
+    }
+}

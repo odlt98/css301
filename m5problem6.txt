@@ -1,0 +1,23 @@
+// Omar De La Torre
+// Module 5 Problem 6
+// 5/14/2019
+
+
+public class module5problem6
+{
+
+	public static void main(String[] args)
+    {
+      int x = 10;
+      
+      System.out.println(x<15 && x > 5);
+      System.out.println(x<15 || x > 8);
+      System.out.println(!(x<15 || x > 5));
+      
+      
+      
+      
+    
+      
+    }
+}

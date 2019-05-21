@@ -1,0 +1,41 @@
+// Omar De La Torre
+// Module 5 Problem 4
+// 5/14/2019
+
+
+public class module5problem4
+{
+
+	public static void main(String[] args)
+    {
+      
+      int x = 10;
+      int y = 5;
+      int test1;
+     
+      
+      test1 = x + y;
+      System.out.println(x + y);
+      
+      
+      int test2 = x - y;
+      int test3 = x * y;
+      int test4 = x / y;
+      
+      System.out.println(test2);
+      System.out.println(test3);
+      System.out.println(test4);
+      
+      
+      
+      
+      int test5 = x % y;
+      int test6 = x++;
+      System.out.println(test5);
+      System.out.println(test6);
+      System.out.println(x);
+      
+      int test7 = --x;
+      System.out.println(test7);
+    }      
+}
