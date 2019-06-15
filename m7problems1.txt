@@ -1,0 +1,26 @@
+//Omar De La Torre
+//m7problem1
+//5/21/2019
+
+
+public class sampleClass 
+{
+  int x = 5;
+
+  public static void main(String[] args) 
+  
+  {
+    sampleClass myObj = new sampleClass();
+    
+  
+  
+ 	myObj.x =  10;
+  	System.out.println(myObj.x);
+    
+   	sampleClass myObj2 = new sampleClass();
+    System.out.println(myObj2.x);
+    
+  } 
+  
+  
+}
